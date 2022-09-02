@@ -21,6 +21,9 @@
   },
   "peacock.remoteColor": "#80558C",
   "conventionalCommits.scopes": [
-    "project"
+    "project",
+    "test",
+    "versioning",
+    "config"
   ]
 }
