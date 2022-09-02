@@ -24,6 +24,7 @@
     "project",
     "test",
     "versioning",
-    "config"
+    "config",
+    "entity-category"
   ]
 }
