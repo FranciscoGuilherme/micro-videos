@@ -17,6 +17,6 @@ export default class Category {
   }
 
   private set is_active(value: boolean) {
-    this.is_active = value ?? true;
+    this.props.is_active = value ?? true;
   }
 }
