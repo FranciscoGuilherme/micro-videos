@@ -25,6 +25,7 @@
     "test",
     "versioning",
     "config",
-    "entity-category"
+    "entity-category",
+    "shared-resources"
   ]
 }
